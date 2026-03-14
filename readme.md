@@ -20,8 +20,6 @@ A minimal, design-forward wallpaper discovery site built with vanilla HTML, CSS,
 - [Unsplash API](https://unsplash.com/developers)
 - [Lucide Icons](https://lucide.dev)
 - [DM Sans + DM Serif Display](https://fonts.google.com)
-##  🌐 Site Preview
-
 
 ## 🚀 Live Demo
 [wren.bilaldevdex.github.io]
