@@ -24,8 +24,8 @@ A minimal, design-forward wallpaper discovery site built with vanilla HTML, CSS,
 
 
 ## 🚀 Live Demo
-[wren.bilaldevdex.github.io](https://bilaldevdex.github.io/wren)
-
+[wren.bilaldevdex.github.io]
+(https://ibnhanif.github.io/wren/)
 ## 📸 Credits
 All photos from [Unsplash](https://unsplash.com) — credited to their respective photographers.
 
